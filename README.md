@@ -1,3 +1,7 @@
+![Capa-01](https://github.com/PaBo07/PaBo07/assets/128877808/04b7d732-2155-424d-bacd-f5267620deae)
+
+##
+
 - 👋 Olá, Paulo Borges aqui...
 - 👀 Tenho interesse em DataViz Analytics e Web Front-End
 - 🎓 Atualmente venho evoluindo meus conhecimentos em HTML, CSS, JavaScript e BootStrap!
