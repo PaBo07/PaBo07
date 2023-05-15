@@ -1,5 +1,4 @@
-
-![Capa de perfil para banner de linkedIn](https://github.com/PaBo07/PaBo07/assets/128877808/ea584cf2-4e88-4db2-9916-095519cc0e0c)
+![Capa de perfil para banner de linkedIn](https://github.com/PaBo07/PaBo07/assets/128877808/cb8b20b1-8b0f-41dd-a910-39e7edabe65a)
 
 ##
 
